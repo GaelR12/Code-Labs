@@ -1,0 +1,9 @@
+What are data types?
+-clarifications that specifies which type of value a variable has 
+What are operators used for?
+-To minipulate or evealuate an expression 
+What are conditional statements?
+-program expression that cammands the computer to run 
+What are loops?
+-Repeats once for each item in a list
+
