@@ -1,0 +1,5 @@
+What is the DOM?
+Is a document made to put in the website to have a easy interaction
+What are event listeners?
+when the user interacts with anything on the website it changes 
+format or background color.
