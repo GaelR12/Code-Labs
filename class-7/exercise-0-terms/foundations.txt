@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+What is the DOM?
+Is a document made to put in the website to have a easy interaction
+What are event listeners?
+when the user interacts with anything on the website it changes 
+=======
+What is the DOM?
+Is a document made to put in the website to have a easy interaction
+What are event listeners?
+when the user interacts with anything on the website it changes 
+>>>>>>> 602e669e2b3236920a87281a576c8b9d36eb3ceb
+format or background color.
