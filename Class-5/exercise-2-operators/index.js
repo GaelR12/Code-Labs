@@ -1,5 +1,5 @@
 //Addition +
-console.log(2 + 2);
+console.log(2 + 2);/
 //Subtraction -
 console.log(2 - 2);
 //Multipication *
