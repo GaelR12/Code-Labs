@@ -21,3 +21,12 @@
     "enableI18nLegacyMessageIdFormat": false
   }
 }
+<h2>Products</h2>
+
+<div *ngFor="let product of products">
+
+  <h3>
+      {{  }}
+  </h3>
+
+</div>
